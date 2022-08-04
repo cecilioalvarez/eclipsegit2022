@@ -7,6 +7,7 @@ public class Principal {
 		System.out.println("hola para git");
 		System.out.println("hola para git");
 		System.out.println("hola para git");
+		System.out.println("estamos con codigo de la rama1");
 	}
 
 }
